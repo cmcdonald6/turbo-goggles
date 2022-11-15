@@ -21,10 +21,10 @@ $(document).ready(function() {
 const devProfile = {
     "name": ["Cody McDonald"],
     "pic": "https://ssb.wiki.gallery/images/0/05/RoyFTiltSSBU.gif",
-    "title": "Certified Classic, Swim Club President",
+    "title": "Anxiety Connoisseur, Professional Esports Commentator",
     "github": ["nutenjoyer", " https://github.com/nutenjoyer"],
-    "background": "Senior IT Major, HCI/US Concentration",
+    "background": "Senior, IT Major, HCI/UX Concentration",
     "interests": "Esports, Bass Guitar, Lifting",
-    "currently listening/watching": "Around the Fur, The Boys"
+    "currently listening/watching": "HWH 8: Side B, Paddington 2"
 };
 
