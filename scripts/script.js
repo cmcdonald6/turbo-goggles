@@ -25,6 +25,6 @@ const devProfile = {
     "github": ["nutenjoyer", " https://github.com/nutenjoyer"],
     "background": "Senior, IT Major, HCI/UX Concentration",
     "interests": "Esports, Bass Guitar, Lifting",
-    "currently listening/watching": "HWH 8: Side B, Paddington 2"
+    "currently listening/watching": "The Brockhampton Discography, Dorktown"
 };
 
