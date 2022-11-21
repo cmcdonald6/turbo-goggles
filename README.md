@@ -1,2 +1,2 @@
 # ubiquitous-robot
-mcdonald hotel lab
+mcdonald india lab
