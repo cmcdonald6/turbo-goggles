@@ -47,7 +47,7 @@ $(function () {
       //if they say yes, display the textbox
   
       //get new data
-      let entertain = $("input[name=entertained]:checked").val();
+      let mood = $("input[name=entertained]:checked").val();
   
       //show/hide data box accordingly
       if (entertain === "No") {
